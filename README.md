@@ -4,6 +4,8 @@ This repository hosts materials related to the episode of the *R for the Rest of
 
 <!--  TODO: link to the podcast episode -->
 
+## Installation
+
 You can install the packages I spoke about during the podcast with the following code:
 
 ``` r
@@ -27,6 +29,8 @@ pak::pak(c(
 pal and ensure are mostly aimed at R package developers, while gander is especially useful for data science. For more on how these three packages are related to each other and other options for LLM code-assist for R, check out this [tidyverse blog post](https://deploy-preview-721--tidyverse-org.netlify.app/blog/2025/01/experiments-llm/).
 
 <!-- TODO: use production link above when ready -->
+
+## Demo
 
 In the demo, we explored this dataset using the gander addin:
 
